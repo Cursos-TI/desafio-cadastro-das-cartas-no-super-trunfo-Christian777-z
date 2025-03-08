@@ -18,7 +18,7 @@ int main(){
   printf ("Área: 20,48 km^2\n");
   printf ("PIB: 10.132.458.254,38\n");
   printf ("Atrativos: 18\n");
-
+  printf ("\n");
 
   printf ("Carta 2\n");
   printf ("Estado: Rio de Janeiro\n");
